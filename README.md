@@ -47,9 +47,9 @@
 -----
 ### My Stat
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stankv&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stankv&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stankv&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stankv&theme=github_light" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stankv&theme=github_light" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stankv&theme=github_light" />
 </div>
 
 
