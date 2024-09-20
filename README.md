@@ -1,4 +1,7 @@
-## Hi there 👋
+<div id="header" align="center">
+    <h1> Hi there, I'm Stanislav 👋</h1>
+    <h3>Python Developer from Saint-Petersburg</h3>
+</div> 
 
 <!--
 **stankv/stankv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
