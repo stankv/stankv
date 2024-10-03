@@ -17,7 +17,7 @@
 <!--
 **stankv/stankv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: -->
 
-### :woman_technologist: About me:
+### :man_technologist: About me:
 
 - 🔭 I’m currently working on secret web project
 - 🌱 I’m currently learning backend development
@@ -46,7 +46,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" width="50" height="50" />&nbsp;
 -----
 -----
-### :fire: My Stat
+### :fire: My Stat:
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stankv&theme=github_dark" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stankv&theme=github_dark" />
