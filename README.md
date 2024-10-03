@@ -49,13 +49,14 @@
 ### My Stat
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stankv&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stankv&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stankv&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stankv&theme=github_dark" />
 </div>
 
 <div id="stat" align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stankv&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stankv&theme=github_dark" />
+  
 </a>
 </div>
 
