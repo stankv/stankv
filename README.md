@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
 </div>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnAxYmU3Z2lsNWZ3aHlsYmlrMnA0M2QxdzkxaDhhbGp3ODdud3dqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="background: none;" width="100%" height="100%" alt="Coding Work From Home GIF by Domme Space">
 <!--
 **stankv/stankv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: -->
 
