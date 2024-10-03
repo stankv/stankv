@@ -12,6 +12,7 @@
     <a href="https://t.me/stan75">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
+    <br />
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnAxYmU3Z2lsNWZ3aHlsYmlrMnA0M2QxdzkxaDhhbGp3ODdud3dqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="background: none;" width="600" height="300" alt="Coding Work From Home GIF by Domme Space">
 </div>
 
