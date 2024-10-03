@@ -3,7 +3,7 @@
     <h3>Python Developer from Saint-Petersburg</h3>
 </div> 
 <div id="socials" align="center">
-    <a href="https://vk.com/stanbad">
+    <a href="https://vk.com/stan_bad">
         <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk.com"/>
     </a>
     <a href="mailto:korjsv@gmail.com">
