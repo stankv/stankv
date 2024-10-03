@@ -54,6 +54,8 @@
 </div>
 
 <div id="stat" align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stankv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stankv&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+</a>
 </div>
 
