@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on secret web project
 - 🌱 I’m currently learning backend development
-- 👯 I’m looking to collaborate on sites and web-applications development
+- 👯 I’m looking for a job developing websites and web applications
 - 📄 Know about my experiences [CV](https://spb.hh.ru/resume/174b8e12ff0d95446e0039ed1f563135526956)
 - 📫 Reach me by [E-mail](mailto:korjsv@gmail.com), [Telegram](https://t.me/stan75)
 <!-- - 🤔 I’m looking for help with ...
