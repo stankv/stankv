@@ -18,10 +18,10 @@
     <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnAxYmU3Z2lsNWZ3aHlsYmlrMnA0M2QxdzkxaDhhbGp3ODdud3dqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="background: none;" width="600" height="300" alt="Coding Work From Home GIF by Domme Space"> -->
     </div>
 
-### :man_technologist: About me:
+<!--### :man_technologist: About me:
 
 - 🔭 I’m currently working on secret web project
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning backend development -->
 
 
 
