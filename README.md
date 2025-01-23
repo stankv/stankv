@@ -33,7 +33,7 @@
 - 🔭 I’m currently working on secret web project
 - 🌱 I’m currently learning backend development
 - 👯 I’m looking for a job developing websites and web applications
-- 📄 Know about my experiences [CV]([https://spb.hh.ru/resume/fd05ea06ff0dd54a350039ed1f4f50784f4f34])
+- 📄 Know about my experiences [CV](https://spb.hh.ru/resume/fd05ea06ff0dd54a350039ed1f4f50784f4f34)
 - 📫 Reach me by [E-mail](mailto:korjsv@gmail.com), [Telegram](https://t.me/stan75)
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
