@@ -30,11 +30,12 @@
 
 ### :man_technologist: About me:
 
+- 🌐 **Personal Website:** [skorj.ru](https://skorj.ru)
 - 🔭 I’m currently working on secret web project
 - 🌱 I’m currently learning backend development
-- 👯 I’m looking for a job developing websites and web applications
+- 👯 I’m looking for a job developing web-sites and web applications
 - 📄 Know about my experiences [CV](https://spb.hh.ru/resume/fd05ea06ff0dd54a350039ed1f4f50784f4f34)
-- 📫 Reach me by [E-mail](mailto:korjsv@gmail.com), [Telegram](https://t.me/stan75)
+- 💬 Reach me by [E-mail](mailto:korjsv@gmail.com), [Telegram](https://t.me/stan75)
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -49,12 +50,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" width="50" height="50" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" width="50" height="50" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50" height="50" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="50" height="50" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" title="PyTest" width="50" height="50" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" width="50" height="50" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" width="50" height="50" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" width="50" height="50" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="50" height="50" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" width="50" height="50" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cicd/cicd-original-wordmark.svg" title="CI/CD" width="50" height="50" />&nbsp;
 -----
 -----
 ### :fire: My Stat:
